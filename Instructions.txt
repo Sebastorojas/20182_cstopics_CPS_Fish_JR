@@ -1,0 +1,40 @@
+Juan Sebastian Rojas Aguilar
+Univesidad Santo Tomas Colombia
+Introduction to artificial intelligence
+Carolina Higuera
+
+
+Welcome
+
+
+It solution is developet with python 3 and pygame using CPS.
+To play the game you have to install or have in your pc python 3 and pygame
+
+Instructions:
+
+- To open the game yo have to put the CPS_Fish_JR.rar in a folder in your computer.
+- Next extract all content of the CPS_Fish_JR.rar in the folder.
+- Open the file Names with ur text editor and edit if you want the names.
+Some combinations that give good results are:
+
+'Gonzales','Andres','Juana','Carolina','Sebastian'
+
+'Antonio','Andres','Juana','Carolina','Sebastian'
+
+'Antonio','Andres','Gonzales','Carolina','Sebastian'
+
+'Antonio','Sebastian','Gonzales','Carolina','Andres'
+
+'Carolina','Sebastian','Gonzales','Juana','Andres'
+
+'Juana','Sebastian','Carolina','Santiago','Gonzales'
+
+- Next open the directory of the folder in your terminal and put this comand CPS_Fish_JR.py
+
+for example:
+C:\Users\juans\Desktop>py CPS_Fish_JR.py
+
+
+
+Thanks.
+Enjoy. 
