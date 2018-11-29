@@ -83,7 +83,7 @@ Example of operation:
 Iterations until you get an answer  See document Iterations_EX1
 Scheduled graph with solution  See image Schedule_EX1
 
-Youtube link:
+Youtube link: https://youtu.be/BOgySJoH1Zk 
 
 DEPENDENCIES AND INSTRUCTIONS TO RUN THE PROJECT 
 
