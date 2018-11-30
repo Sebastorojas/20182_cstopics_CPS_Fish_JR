@@ -1,9 +1,10 @@
 # FINAL PROJECT OF INTRODUCTION TO ARTIFICAL INTELIGENCE
-# UNIVERSIDAD SANTO TOMAS 
-# BY JUAN SEBASTIAN ROJAS AGUILAR
+# Schedule Fish JR CSP
+## UNIVERSIDAD SANTO TOMAS 
+## BY JUAN SEBASTIAN ROJAS AGUILAR
 
 
-# PROBLEM: 
+## PROBLEM: 
 
 
 _In the fish company JR there is a maintenance area in charge of keeping all the machines in proper operation. To do this, the maintenance of each machine must be planned. However, there are an problem in this process. 
@@ -52,21 +53,14 @@ The other thing to keep in mind is to follow the backtrack-search strategy which
 _
 
 
-
-
 ### FLOW DIAGRAM 
 
-Mira **Deployment** para conocer como desplegar el proyecto.
-
-_Que cosas necesitas para instalar el software y como instalarlas_
-
-```
-Da un ejemplo
-```
+![No cargo :(](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Flow%20diagram.png )
 
 ### TECHNICAL SPECIFICATIONS 
 
-_To apply the CPS to the problem, the following considerations will be considered.
+_
+### To apply the CPS to the problem, the following considerations will be considered.
 
 The domains will be finite.
 The restrictions will be binary.
@@ -82,9 +76,13 @@ The variables can be entered through an .xml file which can be edited by the sup
 •	Santiago 
 •	Antonio
 
-Restrictions:
+### Restrictions:
 
-Mira **Deployment** para conocer como desplegar el proyecto.
+![No cargo :(](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Constrains.png)
+### Domains
+
+![No cargo :(](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Domains.PNG)
+
 
 ### Example of operation:
 
@@ -92,139 +90,47 @@ Mira **Deployment** para conocer como desplegar el proyecto.
 
 ![No cargo :(](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Names_entry_EX1.PNG )
 
-Iterations until you get an answer  See document Iterations_EX1
-Scheduled graph with solution  See image Schedule_EX1_
+**Iterations**
 
-_Dí cómo será ese paso_
+[Open this file](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Iterations_EX1.txt)
 
-```
-Da un ejemplo
-```
+**Scheduled graph with solution**
 
-_Y repite_
+![No cargo :(](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Schedule_EX1.PNG )
 
-```
-hasta finalizar
-```
 
-_Finaliza con un ejemplo de cómo obtener datos del sistema o como usarlos para una pequeña demo_
 
-## Ejecutando las pruebas ⚙️
+## YOUTUBE LINK VIDEO
 
-_Explica como ejecutar las pruebas automatizadas para este sistema_
+[Link video](https://youtu.be/BOgySJoH1Zk )
 
-### Analice las pruebas end-to-end 🔩
 
-_Explica que verifican estas pruebas y por qué_
+## DEPENDENCIES AND INSTRUCTIONS TO RUN THE PROJECT 
 
-```
-Da un ejemplo
-```
+[Instructions](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Instructions.txt )
 
-### Y las pruebas de estilo de codificación ⌨️
+## RESOURCES
+[](http://hrudnick.sitios.ing.uc.cl/paperspdf/Gil.pdf )
+[](https://scielo.conicyt.cl/scielo.php?pid=S0718-221X2001000100006&script=sci_arttext )
+[](http://repositorio.ufpso.edu.co:8080/dspaceufpso/bitstream/123456789/1609/3/30122.pdf )
+[](https://cstopics.github.io/cstopics/artificial-intelligence/CSP/csp )
 
-_Explica que verifican estas pruebas y por qué_
+_Kolaitis, Phokion G.; Vardi, Moshe Y. (2000). «Conjunctive-Query Containment and Constraint Satisfaction». Journal of Computer and System Sciences 61_
 
-```
-Da un ejemplo
-```
 
-## Deployment 📦
+## Autor ✒️
 
-_Agrega notas adicionales sobre como hacer deploy_
+* **Juan Sebastian Rojas Aguilar** 
 
-## Construido con 🛠️
+_
 
-_Menciona las herramientas que utilizaste para crear tu proyecto_
+This project was developed in the Universidad Santo Tomás, in Bogotá Colombia.
+In the following courses:
+    * Introduction to Artificial Intelligence
+        (https://cstopics.github.io/cstopics/artificial-intelligence/syllabusAI)
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
-
-## Contribuyendo 🖇️
-
-Por favor lee el [CONTRIBUTING.md](https://gist.github.com/villanuevand/xxxxxx) para detalles de nuestro código de conducta, y el proceso para enviarnos pull requests.
-
-## Versionado 📌
-
-Usamos [SemVer](http://semver.org/) para el versionado. Para todas las versiones disponibles, mira los [tags en este repositorio](https://github.com/tu/proyecto/tags).
-
-## Autores ✒️
-
-_Menciona a todos aquellos que ayudaron a levantar el proyecto desde sus inicios_
-
-* **Andrés Villanueva** - *Trabajo Inicial* - [villanuevand](https://github.com/villanuevand)
-* **Fulanito Detal** - *Documentación* - [fulanitodetal](#fulanito-de-tal)
-
-También puedes mirar la lista de todos los [contribuyentes](https://github.com/your/project/contributors) quíenes han participado en este proyecto. 
-
-## Licencia 📄
-
-Este proyecto está bajo la Licencia (Tu Licencia) - mira el archivo [LICENSE.md](LICENSE.md) para detalles
-
-## Expresiones de Gratitud 🎁
-
-* Comenta a otros sobre este proyecto 📢
-* Invita una cerveza 🍺 a alguien del equipo. 
-* Da las gracias públicamente 🤓.
-* etc.
+_
 
 
 
 
-#CPS_Fish_JR 
-
-FINAL PROJECT OF INTRODUCTION TO ARTIFICAL INTELIGENCE
-UNIVERSIDAD SANTO TOMAS 
-
-
-BY JUAN SEBASTIAN ROJAS AGUILAR
-
-PROBLEM: 
-
-In the fish company JR there is a maintenance area in charge of keeping all the machines in proper operation. To do this, the maintenance of each machine must be planned. However, there are an problem in this process. The problem is that it is not possible for the maintenance area to know which machines require a stop or require a repair at the time it is necessary To solve this, will have an intern in each area, where he will be in charge of performing preventive maintenance to the machines, update the resume and repairs of the same and finally generate reports to supervisors of the maintenance area in case there is a machine that requires repair. This is also a way for practitioners in their student form to understand the whole plant process and not stay in one place.
-
-THEORETICAL FOUNDATIONS 
-
-Constraint Satisfaction Problems
-
-
-FLOW DIAGRAM
-
-Please go to the image Flow diagram
-
-TECHNICAL SPECIFICATIONS
-
-To apply the CPS to the problem, the following considerations will be considered.
-
-The domains will be finite.
-The restrictions will be binary.
-Variables:
-
-The variables can be entered through an .xml file which can be edited by the supervisor of the maintenance area. He can choose between 7 names, which are:
-
-•	Carolina •	Sebastian •	Gonzales •	Juana •	Andrew •	Santiago •	Antonio
-
-Restrictions:
-
-Please see the Constrains image.
-
-Example of operation:
-
-- Enter names - see image Names_Entry_EX1
-Iterations until you get an answer  See document Iterations_EX1
-Scheduled graph with solution  See image Schedule_EX1
-
-Youtube link: https://youtu.be/BOgySJoH1Zk 
-
-DEPENDENCIES AND INSTRUCTIONS TO RUN THE PROJECT 
-
-Please go to the file call instrucciones.txt
-
-RESOURCES
-
-http://hrudnick.sitios.ing.uc.cl/paperspdf/Gil.pdf
-https://scielo.conicyt.cl/scielo.php?pid=S0718-221X2001000100006&script=sci_arttext
-http://repositorio.ufpso.edu.co:8080/dspaceufpso/bitstream/123456789/1609/3/30122.pdf
-https://cstopics.github.io/cstopics/artificial-intelligence/CSP/csp
-Kolaitis, Phokion G.; Vardi, Moshe Y. (2000). «Conjunctive-Query Containment and Constraint Satisfaction». Journal of Computer and System Sciences 61
