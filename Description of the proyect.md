@@ -86,9 +86,12 @@ Restrictions:
 
 Mira **Deployment** para conocer como desplegar el proyecto.
 
-Example of operation:
+### Example of operation:
 
-- Enter names - see image Names_Entry_EX1
+**Enter names** 
+
+![No cargo :(](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Names_entry_EX1.PNG )
+
 Iterations until you get an answer  See document Iterations_EX1
 Scheduled graph with solution  See image Schedule_EX1_
 
