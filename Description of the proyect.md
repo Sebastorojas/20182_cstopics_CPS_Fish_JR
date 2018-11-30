@@ -1,7 +1,6 @@
 # FINAL PROJECT OF INTRODUCTION TO ARTIFICAL INTELIGENCE
 # Schedule Fish JR CSP
 ## UNIVERSIDAD SANTO TOMAS 
-## BY JUAN SEBASTIAN ROJAS AGUILAR
 
 
 ## PROBLEM: 
@@ -68,13 +67,13 @@ Variables:
 
 The variables can be entered through an .xml file which can be edited by the supervisor of the maintenance area. He can choose between 7 names, which are:
 
-•	Carolina 
-•	Sebastian 
-•	Gonzales 
-•	Juana 
-•	Andrew 
-•	Santiago 
-•	Antonio
+**Carolina** 
+**Sebastian** 
+**Gonzales** 
+**Juana** 
+**Andrew** 
+**Santiago** 
+**Antonio**
 
 ### Restrictions:
 
@@ -92,7 +91,7 @@ The variables can be entered through an .xml file which can be edited by the sup
 
 **Iterations**
 
-[Open this file](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Iterations_EX1.txt)
+[ITERATIONS](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Iterations_EX1.txt)
 
 **Scheduled graph with solution**
 
@@ -102,18 +101,18 @@ The variables can be entered through an .xml file which can be edited by the sup
 
 ## YOUTUBE LINK VIDEO
 
-[Link video](https://youtu.be/BOgySJoH1Zk )
+[YOUTUBE VIDEO](https://youtu.be/BOgySJoH1Zk )
 
 
 ## DEPENDENCIES AND INSTRUCTIONS TO RUN THE PROJECT 
 
-[Instructions](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Instructions.txt )
+[OPEN THIS LINK TO SEE THE INSTRUCTIONS](https://github.com/Sebastorojas/20182_cstopics_CPS_Fish_JR/blob/master/Instructions.txt )
 
 ## RESOURCES
-[](http://hrudnick.sitios.ing.uc.cl/paperspdf/Gil.pdf )
-[](https://scielo.conicyt.cl/scielo.php?pid=S0718-221X2001000100006&script=sci_arttext )
-[](http://repositorio.ufpso.edu.co:8080/dspaceufpso/bitstream/123456789/1609/3/30122.pdf )
-[](https://cstopics.github.io/cstopics/artificial-intelligence/CSP/csp )
+[http://hrudnick.sitios.ing.uc.cl/paperspdf/Gil.pdf](http://hrudnick.sitios.ing.uc.cl/paperspdf/Gil.pdf )
+[https://scielo.conicyt.cl/scielo.php?pid=S0718-221X2001000100006&script=sci_arttext](https://scielo.conicyt.cl/scielo.php?pid=S0718-221X2001000100006&script=sci_arttext )
+[http://repositorio.ufpso.edu.co:8080/dspaceufpso/bitstream/123456789/1609/3/30122.pdf](http://repositorio.ufpso.edu.co:8080/dspaceufpso/bitstream/123456789/1609/3/30122.pdf )
+[https://cstopics.github.io/cstopics/artificial-intelligence/CSP/csp](https://cstopics.github.io/cstopics/artificial-intelligence/CSP/csp )
 
 _Kolaitis, Phokion G.; Vardi, Moshe Y. (2000). «Conjunctive-Query Containment and Constraint Satisfaction». Journal of Computer and System Sciences 61_
 
